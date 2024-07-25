@@ -1,2 +1,2 @@
 # practice_python
-This repository is for my practice. - pyton 
+This repository is for coding-test (Java)
