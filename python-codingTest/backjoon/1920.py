@@ -24,5 +24,6 @@ for t in target_list:
     # print(idx)
     if idx < len(number_list) and t == number_list[idx]:
         res = 1
-    else : res=0       
+        #print(1)
+    else : res=0       #print(0)
     print(res)
