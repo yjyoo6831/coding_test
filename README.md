@@ -1,2 +1,1 @@
-# practice_python
-This repository is for coding-test (Java)
+[공부] 알고리즘 연습
