@@ -23,7 +23,8 @@ function solution(input) {
                     // console.log("check >> false");
                     
                     check = false;
-                    break;
+                    break; // 다음 for문으로 넘어감 
+                    // continue : 그 다음 라인을 수행함.
                 }
             }
         }
