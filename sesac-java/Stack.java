@@ -1,5 +1,6 @@
 package sesac-java;
 import java.util.*;
+// 스택 : LIFO 마지막에 넣은게 처음에 나온다
 class Solution {
     public int solution(int param0) {
         int answer = 0;
